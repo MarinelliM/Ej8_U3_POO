@@ -1,0 +1,89 @@
+[
+    {
+        "__class__": "Docente",
+        "__atributos__": {
+            "cuil": "20-3454506-8",
+            "apellido": "Perez",
+            "nombre": "Nicolas",
+            "sueldo": 89000,
+            "anti": 3,
+            "carrera": "LCC",
+            "cargo": "simple",
+            "catedra": "Sistemas de Informacion"
+        }
+    },
+    {
+        "__class__": "Investigador",
+        "__atributos__": {
+            "cuil": "15-324235-5",
+            "apellido": "Dominguez",
+            "nombre": "Juan",
+            "sueldo": 120000,
+            "anti": 2,
+            "area": "Computacional",
+            "tipo": "Cientifica"
+        }
+    },
+    {
+        "__class__": "PersonalA",
+        "__atributos__": {
+            "cuil": "12-456543-4",
+            "apellido": "Castro",
+            "nombre": "Maria",
+            "sueldo": 140000,
+            "anti": 2,
+            "categoria": 12
+        }
+    },
+    {
+        "__class__": "DI",
+        "__atributos__": {
+            "cuil": "18-3446706-8",
+            "apellido": "Lopez",
+            "nombre": "Marcos",
+            "sueldo": 89000,
+            "anti": 3,
+            "carrera": "LCC",
+            "cargo": "simple",
+            "catedra": "EyFCI",
+            "area": "Estructuras",
+            "tipo": "Teorica",
+            "cateprog": "I",
+            "importextra": 25000
+        }
+    },
+    {
+        "__class__": "DI",
+        "__atributos__": {
+            "cuil": "18-3446706-8",
+            "apellido": "Lucrecio",
+            "nombre": "Ariel",
+            "sueldo": 89000,
+            "anti": 3,
+            "carrera": "LCC",
+            "cargo": "exclusivo",
+            "catedra": "EyFCI",
+            "area": "Estructuras",
+            "tipo": "Teorica",
+            "cateprog": "IV",
+            "importextra": 25000
+        }
+    },
+    {
+        "__class__": "DI",
+        "__atributos__": {
+            "cuil": "18-3446706-8",
+            "apellido": "Mendez",
+            "nombre": "Zariguella",
+            "sueldo": 89000,
+            "anti": 3,
+            "carrera": "LSI",
+            "cargo": "semiexclusivo",
+            "catedra": "EyFCI",
+            "area": "Computacional",
+            "tipo": "Teorica",
+            "cateprog": "II",
+            "importextra": 25000
+        }
+    }
+]
